@@ -11,7 +11,7 @@
 
 - ⚡ What I like to do: I like to play games, research and learn new things.
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact with me:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmettahasener/)
