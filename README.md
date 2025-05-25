@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://youtube.com/@www.youtube.com/@IcedHoneyGames) [![email](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:tahaxsener@gmail.com) 
+[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://youtube.com/@IcedHoneyGames) [![email](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:tahaxsener@gmail.com) 
 
 # 💻 Tech Stack:
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,unity,unrealengine,git,miro,figma)
